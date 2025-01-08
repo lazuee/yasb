@@ -4,7 +4,7 @@ APP_NAME = "Yasb"
 APP_NAME_FULL = "Yet Another Status Bar"
 APP_BAR_TITLE = "YasbBar"
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
-GITHUB_URL = "https://github.com/amnweb/yasb"
+GITHUB_URL = "https://github.com/lazuee/yasb"
 GITHUB_THEME_URL = "https://github.com/amnweb/yasb-themes"
 BUILD_VERSION = "1.5.2"
 # Development Settings
